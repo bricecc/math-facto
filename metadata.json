@@ -1,0 +1,5 @@
+{
+  "name": "MathFacto - Entraînement à la Factorisation",
+  "description": "Une application web pour s'entraîner à la factorisation et aux équations mathématiques, basée sur le programme du Collège Ste-Croix.",
+  "requestFramePermissions": []
+}
